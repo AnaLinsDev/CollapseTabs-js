@@ -21,16 +21,15 @@ div.main{
   font-size: 30px;
   color: rgb(16, 2, 49);
   margin-top: 15px;
-  background-color: whitesmoke;
+  background-color: rgb(227, 234, 241);
   border: none;
   outline: none;
   transition: 0.2s ease-in-out;
 }
-
 .content {
   padding-left: 10px ;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-in-out;
-  background-color: #f1f1f1;
+  background-color: rgb(227, 234, 241);
 }
